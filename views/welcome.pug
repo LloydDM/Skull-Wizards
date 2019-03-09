@@ -1,0 +1,56 @@
+extends layout
+
+block content
+  script(type="text/javascript" src="/javascripts/ng-modules/welcome/welcome.module.js")
+  script(type="text/javascript" src="/javascripts/ng-modules/welcome/welcome.config.js")
+  script(type="text/javascript" src="/javascripts/ng-modules/welcome/welcome.service.js")
+  script(type="text/javascript" src="/javascripts/ng-modules/welcome/welcome.controller.js")
+  
+  div#welcome(ng-cloak layout="column" 
+              layout-padding 
+              layout-align="start center" 
+              flex="40" 
+              flex-xs="90"
+              flex-sm="60"
+              flex-offset="30"
+              flex-offset-xs="5"
+              flex-offset-sm="20" 
+              ng-app="welcome" 
+              ng-controller="WelcomeController as welcome")
+    .md-title Welcome, dirty peasants!
+    div 
+      p 
+        | Enter the Room Code below that your 
+        span(style="color: rgb(244, 67, 54); font-family: 'New Rocker', cursive;")
+          a(role="button" ng-click="welcome.getAllRooms()") SKULL LORD 
+        | has given you.
+      p 
+        | If you want to be a 
+        span(style="color: rgb(244, 67, 54); font-family: 'New Rocker', cursive;") SKULL LORD 
+        | and wish to start a new adventure through the 
+        span(style="color: rgb(255, 179, 0); font-weight: bold;") CHAOS CAVERNS
+        | , click the Create Room button.
+    div
+      form(name="existingRoom")
+        md-input-container
+          label Room Code
+          input(type="text" 
+                name="roomID" 
+                ng-model="welcome.roomID")
+        md-button.md-primary.md-raised(style="margin-top: -1.2rem;"
+                                       type="submit" 
+                                       ng-click="welcome.joinRoom()") Join
+    div
+      md-button.md-primary.md-raised(ng-click="welcome.createRoom()") Create Room
+
+    div(ng-show="welcome.allRooms")
+      md-card(ng-repeat="room in welcome.allRooms | orderBy: 'last_played'" id="room{{ room._id }}Card")
+        md-card-title
+          md-card-title-text.md-headline {{ room._id }}
+        md-card-content
+          p Last Played: {{ room.last_played | date }}
+          p Players:
+          ul
+            li(ng-repeat="player in room.nice_players") {{ player.hero_name }} ({{ player.mundane_name }})
+        md-card-actions(layout="row" layout-align="end center")
+          md-button.md-warn.md-raised(ng-click="welcome.deleteRoom($event, room._id)") Delete

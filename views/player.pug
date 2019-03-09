@@ -1,0 +1,12 @@
+extends layout
+
+block content
+  script(type="text/javascript" src="/javascripts/ng-modules/player/player.module.js")
+  script(type="text/javascript" src="/javascripts/ng-modules/player/player.config.js")
+  script(type="text/javascript" src="/javascripts/ng-modules/player/player.service.js")
+  script(type="text/javascript" src="/javascripts/ng-modules/player/player.controller.js")
+
+  div#playerWrapper(ng-cloak
+                    ng-app="player"
+                    ng-controller="PlayerController as player")
+    

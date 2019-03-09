@@ -1,0 +1,1284 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pin",
+				"pin_match"
+			],
+			[
+				"chekc",
+				"checkPIN"
+			],
+			[
+				"db",
+				"dbfindone\tDB Find One"
+			],
+			[
+				"send",
+				"sendStatus"
+			],
+			[
+				"roo",
+				"roomCode"
+			],
+			[
+				"layout",
+				"layout-align"
+			],
+			[
+				"md",
+				"md-button"
+			],
+			[
+				"ng",
+				"ng-click"
+			],
+			[
+				"l",
+				"layout"
+			],
+			[
+				"pla",
+				"PlayerController"
+			],
+			[
+				"x",
+				"x_round\tfunction"
+			],
+			[
+				"ma",
+				"math\tmodule"
+			],
+			[
+				"p70",
+				"p70treasure"
+			],
+			[
+				"c14",
+				"c14treasure"
+			],
+			[
+				"pa",
+				"parse_args\tfunction"
+			],
+			[
+				"pass",
+				"passage_contents\tstatement"
+			],
+			[
+				"generalf",
+				"generalFurnishings\tstatement"
+			],
+			[
+				"Gen",
+				"generalFeatures\tstatement"
+			],
+			[
+				"tri",
+				"trickObject\tstatement"
+			],
+			[
+				"obs",
+				"obstacle"
+			],
+			[
+				"Purpose",
+				"Purpose"
+			],
+			[
+				"room",
+				"roomExit"
+			],
+			[
+				"di",
+				"divID\tstatement"
+			],
+			[
+				"ta",
+				"tag\tstatement"
+			],
+			[
+				"o",
+				"obstacle"
+			],
+			[
+				"ha",
+				"hazard"
+			],
+			[
+				"contents",
+				"contents1\tstatement"
+			],
+			[
+				"cnt",
+				"contents1\tstatement"
+			],
+			[
+				"con",
+				"contents"
+			],
+			[
+				"rtr",
+				"returnArray\tstatement"
+			],
+			[
+				"retu",
+				"returnArray\tstatement"
+			],
+			[
+				"ge",
+				"generalFeatures\tstatement"
+			],
+			[
+				"tr",
+				"trick\tstatement"
+			],
+			[
+				"trE",
+				"trapEffect\tstatement"
+			],
+			[
+				"ob",
+				"obstacles\tstatement"
+			],
+			[
+				"ro",
+				"roll\tfunction"
+			],
+			[
+				"tra",
+				"trap_trigger\tstatement"
+			],
+			[
+				"mons",
+				"monster_motivation\tstatement"
+			],
+			[
+				"conten",
+				"contents1"
+			],
+			[
+				"cont",
+				"contents\tstatement"
+			],
+			[
+				"conte",
+				"contents1\tstatement"
+			],
+			[
+				"c",
+				"chamber_contents\tstatement"
+			],
+			[
+				"tabl",
+				"tables\tmodule"
+			],
+			[
+				"cham",
+				"chamber_roll\tfunction"
+			],
+			[
+				"tab",
+				"tables\tmodule"
+			],
+			[
+				"exits",
+				"exits"
+			],
+			[
+				"ra",
+				"raw_input"
+			],
+			[
+				"div",
+				"divID"
+			],
+			[
+				"mr",
+				"mr-3 \tBootstrap 4 Class"
+			],
+			[
+				"col-m",
+				"col-md-12 \tBootstrap 4 Class"
+			],
+			[
+				"col",
+				"col\tTag"
+			],
+			[
+				"fon",
+				"font-weight-bold \tBootstrap 4 Class"
+			],
+			[
+				"fo",
+				"font-italic \tBootstrap 4 Class"
+			],
+			[
+				"t",
+				"table\tTag"
+			],
+			[
+				"px",
+				"px-4 \tBootstrap 4 Class"
+			],
+			[
+				"tabs",
+				"table-striped \tBootstrap 4 Class"
+			],
+			[
+				"ar",
+				"art7500"
+			],
+			[
+				"art",
+				"art2500"
+			],
+			[
+				"ge5",
+				"gems5000"
+			],
+			[
+				"a",
+				"art7500"
+			],
+			[
+				"g",
+				"gems1000"
+			],
+			[
+				"ge1",
+				"gems1000"
+			],
+			[
+				"g1",
+				"gems1000"
+			],
+			[
+				"ge10",
+				"gems1000"
+			],
+			[
+				"gem",
+				"gems50"
+			],
+			[
+				"gems",
+				"gems100"
+			],
+			[
+				"art25",
+				"art250"
+			],
+			[
+				"h1",
+				"hoard1\thoard table 1 roll"
+			],
+			[
+				"hoa1",
+				"hoard1\thoard table 1 roll"
+			],
+			[
+				"ver",
+				"Very"
+			],
+			[
+				"mag",
+				"magicItemDmgPage\tMagic Item DMG Page"
+			],
+			[
+				"ind",
+				"individualTable"
+			],
+			[
+				"inT",
+				"individualTable"
+			],
+			[
+				"indi",
+				"individual_treasure"
+			],
+			[
+				"CR",
+				"CR11_16"
+			],
+			[
+				"ran",
+				"randint"
+			],
+			[
+				"hoard",
+				"hoardCoins"
+			],
+			[
+				"Ho",
+				"Hoard"
+			],
+			[
+				"subt",
+				"subtableKey"
+			],
+			[
+				"sub",
+				"subtableKey"
+			],
+			[
+				"hoar",
+				"hoard_CR0_4_items"
+			],
+			[
+				"d",
+				"dice"
+			],
+			[
+				"magicA",
+				"magicA"
+			],
+			[
+				"Air",
+				"Air"
+			],
+			[
+				"St",
+				"Stone"
+			],
+			[
+				"Stor",
+				"Storm"
+			],
+			[
+				"Inv",
+				"Invulnerability"
+			],
+			[
+				"Spi",
+				"Splint"
+			],
+			[
+				"In",
+				"Influence"
+			],
+			[
+				"Lea",
+				"Leather"
+			],
+			[
+				"A",
+				"Armor"
+			],
+			[
+				"Shield",
+				"Shield"
+			],
+			[
+				"Eyes",
+				"Eyes"
+			],
+			[
+				"Pro",
+				"Protection"
+			],
+			[
+				"S",
+				"Shirt"
+			],
+			[
+				"SPee",
+				"Speed"
+			],
+			[
+				"magic",
+				"magicG"
+			],
+			[
+				"rou",
+				"$routeProvider\tAngularJS"
+			],
+			[
+				"location",
+				"$locationProvider\tAngularJS"
+			],
+			[
+				"ng-bin",
+				"ng-bind-html\tAngularJS"
+			],
+			[
+				"bugli",
+				"buglist-filter"
+			],
+			[
+				"bugl",
+				"buglist-filter"
+			],
+			[
+				"buglist-",
+				"buglist-item"
+			],
+			[
+				"ng-c",
+				"ng-controller\tAngularJS"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"Open",
+				"Open"
+			],
+			[
+				"ngre",
+				"ng-repeat\tAngularJS"
+			],
+			[
+				"scope",
+				"$scope\tAngularJS"
+			],
+			[
+				"ng-r",
+				"ng-repeat\tAngularJS"
+			],
+			[
+				"Dave",
+				"DaveBug"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"texdec",
+				"text-decoration"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"bugex",
+				"bug-expected"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"s",
+				"string"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"borrad",
+				"border-radius"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"pading",
+				"padding-right"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"buglist",
+				"buglist-item"
+			],
+			[
+				"button",
+				"button"
+			],
+			[
+				"border",
+				"border-top"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "views/layout.pug",
+			"settings":
+			{
+				"buffer_size": 1683,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/javascripts/ng-modules/player/player.controller.js",
+			"settings":
+			{
+				"buffer_size": 2404,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/javascripts/ng-modules/player/player.service.js",
+			"settings":
+			{
+				"buffer_size": 1469,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/players.pug",
+			"settings":
+			{
+				"buffer_size": 1766,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "routes/api/api-rooms.js",
+			"settings":
+			{
+				"buffer_size": 14419,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "routes/rooms.js",
+			"settings":
+			{
+				"buffer_size": 561,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "routes/api/api-players.js",
+			"settings":
+			{
+				"buffer_size": 8722,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 286.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"mon",
+				"Snippet: monster cell"
+			],
+			[
+				"mec",
+				"Snippet: mechanics cell"
+			],
+			[
+				"m",
+				"Snippet: mechanics cell"
+			],
+			[
+				"mecha",
+				"Snippet: mechanics cell"
+			],
+			[
+				"snipp",
+				"Snippet: |orderBy"
+			],
+			[
+				"mech",
+				"Snippet: mechanics cell"
+			],
+			[
+				"mons",
+				"Snippet: monster cell"
+			],
+			[
+				"mo",
+				"Snippet: monster cell"
+			],
+			[
+				"brown",
+				"Snippet: brown mold"
+			],
+			[
+				"ital",
+				"Snippet: italic"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"div",
+				"Snippet: divclass"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"cha",
+				"Snippet: Random Dungeon Chamber"
+			],
+			[
+				"NP",
+				"Snippet: NPC"
+			],
+			[
+				"new",
+				"Snippet: newcssrule"
+			],
+			[
+				"ang",
+				"Snippet: angular-init"
+			],
+			[
+				"angin",
+				"Snippet: angular-init"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"did",
+				"Snippet: divid"
+			],
+			[
+				"d",
+				"Snippet: divid"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"lore",
+				"Convert Case: Lower Case"
+			],
+			[
+				"lo",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"di",
+				"Snippet: divid"
+			],
+			[
+				"divc",
+				"Snippet: divclass"
+			],
+			[
+				"divi",
+				"Snippet: divid"
+			],
+			[
+				"news",
+				"Snippet: newcssrule"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"newr",
+				"Snippet: newcssrule"
+			],
+			[
+				"snippet",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 540.0
+	},
+	"console":
+	{
+		"height": 148.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/david/workspace/node/skull",
+		"/home/david/workspace/node/skull/db",
+		"/home/david/workspace/node/skull/public",
+		"/home/david/workspace/node/skull/public/images",
+		"/home/david/workspace/node/skull/public/images/svg",
+		"/home/david/workspace/node/skull/public/javascripts",
+		"/home/david/workspace/node/skull/public/javascripts/ng-modules",
+		"/home/david/workspace/node/skull/public/javascripts/ng-modules/player",
+		"/home/david/workspace/node/skull/public/javascripts/ng-modules/welcome",
+		"/home/david/workspace/node/skull/routes",
+		"/home/david/workspace/node/skull/routes/api",
+		"/home/david/workspace/node/skull/views"
+	],
+	"file_history":
+	[
+		"/home/david/workspace/node/skull/public/javascripts/ng-modules/player/player.service.js",
+		"/home/david/workspace/node/skull/routes/api/api-rooms.js",
+		"/home/david/workspace/node/skull/routes/rooms.js",
+		"/home/david/workspace/node/skull/views/character.pug",
+		"/home/david/workspace/node/skull/views/welcome.pug",
+		"/home/david/workspace/node/skull/public/javascripts/ng-modules/welcome/welcome.controller.js",
+		"/home/david/workspace/node/skull/public/javascripts/ng-modules/player/player.config.js",
+		"/home/david/workspace/node/skull/public/javascripts/ng-modules/player/player.module.js",
+		"/home/david/workspace/node/skull/public/javascripts/ng-modules/welcome/welcome.service.js",
+		"/home/david/workspace/node/skull/routes/skull_lord.js",
+		"/home/david/workspace/node/skull/db/index.js",
+		"/media/david/usb/skull/views/index.pug",
+		"/media/david/usb/skull/app.js",
+		"/home/david/workspace/node/skull/routes/index.js",
+		"/home/david/.config/sublime-text-3/Packages/User/Express Router.sublime-snippet",
+		"/home/david/workspace/python/dungeon/treasure.py",
+		"/home/david/workspace/python/GoldenRatio/src/gratio.py",
+		"/home/david/DND/Campaign/rando.html",
+		"/home/david/DND/Campaign/Token List",
+		"/home/david/.config/sublime-text-3/Packages/User/mechanics cell.sublime-snippet",
+		"/home/david/.config/sublime-text-3/Packages/User/monster cell.sublime-snippet",
+		"/home/david/.config/sublime-text-3/Packages/User/brown mold.sublime-snippet",
+		"/home/david/Pictures/Textures/Dwarven Tomb Dungeon.html",
+		"/home/david/.config/sublime-text-3/Packages/User/green slime.sublime-snippet",
+		"/home/david/.config/sublime-text-3/Packages/User/spiderwebs.sublime-snippet",
+		"/home/david/Downloads/p001012_BulbRhythmPatch.syx",
+		"/home/david/DND/Campaign/Random Dungeon 2017-12-27 11:30",
+		"/home/david/workspace/python/dungeon/dungeon_tables.py",
+		"/home/david/workspace/python/dungeon/randogen.py",
+		"/home/david/.config/sublime-text-3/Packages/User/italic.sublime-snippet",
+		"/home/david/workspace/python/dungeon/chambers.py",
+		"/home/david/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/home/david/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/home/david/workspace/python/dungeon/treasure_tables.py",
+		"/home/david/.config/sublime-text-3/Packages/User/hoard table 3 rolls.sublime-snippet",
+		"/home/david/.config/sublime-text-3/Packages/User/hoard table 2 rolls.sublime-snippet",
+		"/home/david/.config/sublime-text-3/Packages/User/hoard table 1 roll.sublime-snippet",
+		"/home/david/.config/sublime-text-3/Packages/User/Magic Item DMG Page.sublime-snippet",
+		"/home/david/workspace/python/DiceRoll/src/roll.py",
+		"/home/david/.config/sublime-text-3/Packages/User/roll.sublime-snippet",
+		"/home/david/DND/Campaign/Quests",
+		"/home/david/DND/Campaign/NPCs",
+		"/home/david/DND/Campaign/Significant Areas",
+		"/home/david/DND/Campaign/Towns",
+		"/home/david/.config/sublime-text-3/Packages/User/NPC.sublime-snippet",
+		"/home/david/workspace/node/express/davebug/mockup.html",
+		"/home/david/workspace/node/express/davebug/.gitignore",
+		"/home/david/workspace/node/express/davebug/bug-service/bug-service.js",
+		"/home/david/workspace/node/express/davebug/buglist/buglist.template.html",
+		"/home/david/workspace/node/express/davebug/buglist/buglist.controller.js",
+		"/home/david/workspace/node/express/davebug/buglist/buglist.directive.js",
+		"/home/david/workspace/node/express/davebug/buginfo/buginfo.template.html",
+		"/home/david/workspace/node/express/davebug/buginfo/buginfo.controller.js",
+		"/home/david/workspace/node/express/davebug/buginfo/buginfo.directive.js",
+		"/home/david/workspace/node/express/davebug/core/davebug.config.js",
+		"/home/david/workspace/node/express/davebug/proto/project-proto.json",
+		"/home/david/workspace/node/express/davebug/core/davebug.module.js",
+		"/home/david/workspace/node/express/davebug/shared/css/davebug-buglist.css",
+		"/home/david/workspace/node/express/davebug/shared/css/davebug-main.css",
+		"/home/david/workspace/node/express/davebug/json-data/list-of-bugs.json",
+		"/home/david/workspace/node/express/davebug/shared/css/davebug-bug.css",
+		"/home/david/.config/sublime-text-3/Packages/User/console_log.sublime-snippet",
+		"/home/david/workspace/node/express/davebug/buglist-item/buglist-item.template.html",
+		"/home/david/workspace/node/express/davebug/buglist-item/buglist-item.component.js",
+		"/home/david/workspace/node/express/davebug/buglist-filter/buglist-filter.template.html",
+		"/home/david/workspace/node/express/davebug/buglist-filter/buglist-filter.component.js",
+		"/home/david/workspace/node/express/davebug/buglist-item/buglist-item.module.js",
+		"/home/david/workspace/node/express/davebug/services/filter-service.js",
+		"/home/david/workspace/node/express/davebug/buglist-filter/buglist-filter.module.js",
+		"/home/david/workspace/node/express/davebug/buglist-filter/buglist-filter.controller.js",
+		"/home/david/workspace/node/express/davebug/buglist-item/buglist-item.controller.js",
+		"/home/david/workspace/node/express/davebug/buglist/buglist.module.js",
+		"/home/david/.config/sublime-text-3/Packages/User/angular-init.sublime-snippet",
+		"/home/david/workspace/node/express/davebug/app.js",
+		"/home/david/workspace/node/express/davebug/buglist-item.template.html",
+		"/home/david/workspace/node/express/davebug/buglist-item.module.js",
+		"/home/david/workspace/node/express/davebug/buglist-item.component.js",
+		"/home/david/workspace/node/express/davebug/davebug-main.css",
+		"/home/david/workspace/node/express/davebug/davebug-buglist.css",
+		"/home/david/workspace/node/express/davebug/daveBugApp.js",
+		"/home/david/workspace/node/express/angular-phonecat/app/core/phone/phone.service.js",
+		"/home/david/workspace/node/express/angular-phonecat/app/core/phone/phone.module.js",
+		"/home/david/workspace/node/express/angular-phonecat/app/app.config.js",
+		"/home/david/workspace/node/express/angular-phonecat/app/core/core.module.js",
+		"/home/david/workspace/node/express/angular-phonecat/app/app.module.js",
+		"/home/david/workspace/node/express/angular-phonecat/app/phone-list/phone-list.template.html",
+		"/home/david/workspace/node/express/angular-phonecat/app/phone-list/phone-list.component.js",
+		"/home/david/workspace/node/express/angular-phonecat/app/phone-list/phone-list.module.js",
+		"/home/david/workspace/node/express/angular-phonecat/app/phones/nexus-s.json",
+		"/home/david/workspace/node/express/angular-phonecat/app/phones/phones.json",
+		"/home/david/workspace/node/express/angular-phonecat/app/phone-list.component.js",
+		"/home/david/workspace/node/express/angular-phonecat/app/app.js",
+		"/home/david/workspace/node/express/angular-phonecat/app/app.spec.js",
+		"/home/david/workspace/node/express/davebug/davebug-projects.css",
+		"/home/david/workspace/node/express/davebug/bugs-proto.json",
+		"/home/david/.config/sublime-text-3/Packages/User/JsFormat.sublime-settings",
+		"/home/david/.config/sublime-text-3/Packages/User/divclass.sublime-snippet",
+		"/home/david/.config/sublime-text-3/Packages/User/divid.sublime-snippet",
+		"/home/david/.config/sublime-text-3/Packages/User/newcssrule.sublime-snippet",
+		"/home/david/workspace/node/express/davebug/project-proto.json",
+		"/home/david/workspace/node/express/davebug/proportions.html",
+		"/home/david/workspace/node/express/davebug/bug-proto.json",
+		"/home/david/workspace/node/express/myapp/index.html",
+		"/home/david/workspace/node/express/sslapp/sslapp.js",
+		"/home/david/workspace/node/express/myapp/app.js",
+		"/home/david/.config/sublime-text-3/Packages/User/NodeJS.sublime-build",
+		"/home/david/.config/sublime-text-3/Packages/JsFormat/JsFormat.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"getPlayerDetails",
+			"player",
+			"room",
+			"getRoomPlayers",
+			")",
+			"16",
+			"dwarven",
+			"<input type=\"checkbox\">Found?<br>",
+			"holes",
+			"knock",
+			"viol",
+			".</",
+			"healing",
+			"teh",
+			"Brown mold",
+			"Spiderwebs",
+			"Green slime",
+			"Monster (pet or allied creature)",
+			"Monster (dominant inhabitant)",
+			"Monster (pet or allied creature) with treasure",
+			"Monster (dominant inhabitant) with treasure",
+			"<tr>\n        <td>\n          <strong>Monster:</strong>\n        </td>\n        <td>TODO: MONSTER(S) GO HERE</td>\n      </tr>",
+			"Monster (random creature)",
+			"<tr>\n        <td>\n          <strong>Monster:</strong>\n        </td>\n        <td>TODO: MONSTER(S) GO HERE</td>\n      </tr>\n      <tr>\n        <td>\n          <strong>Treasure:</strong>\n        </td>\n        <td>TODO: TREASURE TEXT GOES HERE</td>\n      </tr>\n      <tr>",
+			"Monster (random creature) with treasure",
+			"<tr>\n        <td>\n          <strong>Chamber Contents:</strong>\n        </td>\n        <td>Monster (random creature) with treasure</td>\n      </tr>\n      <tr>\n        <td>\n          <strong>Monster:</strong>\n        </td>\n        <td>TODO: MONSTER(S) GO HERE</td>\n      </tr>\n      <tr>",
+			"Monster (random creature) with treasure",
+			"motivation",
+			"state",
+			"feature",
+			"randint",
+			"h3"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<input type=\"checkbox\"> Found?<br>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "views/layout.pug",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1683,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1333,
+								1333
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Pug/Syntaxes/Pug.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "public/javascripts/ng-modules/player/player.controller.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2404,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1393,
+								1393
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "public/javascripts/ng-modules/player/player.service.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1469,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1146,
+								1146
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 546.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "views/players.pug",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1766,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								607,
+								607
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Pug/Syntaxes/Pug.tmLanguage",
+							"tab_size": 2
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "routes/api/api-rooms.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14419,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3083,
+								3083
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 624.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "routes/rooms.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 561,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "routes/api/api-players.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8722,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 132.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.nodejs":
+	{
+		"height": 120.0
+	},
+	"pinned_build_system": "",
+	"project": "Skull Wizards.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/workspace/node/express/davebug/davebug.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 234.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
