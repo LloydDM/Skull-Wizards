@@ -5,14 +5,25 @@
     .module('welcome')
     .controller('WelcomeController', WelcomeController);
 
-    WelcomeController.$inject = ['welcomeService', '$mdDialog'];
+    WelcomeController.$inject = [
+      'welcomeService',
+      '$mdDialog'
+    ];
 
     function WelcomeController(welcomeService, $mdDialog) {
       let vm = this;
+
+      vm.joinRoom = joinRoom;
+      vm.createRoom = createRoom;
+      vm.getAllRooms = getAllRooms;
+      vm.deleteRoom = deleteRoom;
+
       vm.roomID = ''
       vm.allRooms = [];
 
-      vm.joinRoom = function () {
+      ////////////////////
+
+      function joinRoom() {
         if (vm.roomID) {
           return welcomeService.getRoom(vm.roomID)
             .then(room => {
@@ -35,7 +46,7 @@
         }
       }
 
-      vm.createRoom = function () {
+      function createRoom() {
         return welcomeService.createRoom()
           .then(room => {
             if (room) {
@@ -56,7 +67,7 @@
           });
       }
 
-      vm.getAllRooms = function () {
+      function getAllRooms() {
         return welcomeService.getAllRooms()
           .then(rooms => {
             vm.allRooms = rooms;
@@ -64,7 +75,7 @@
           });
       }
 
-      vm.deleteRoom = function (ev, roomID) {
+      function deleteRoom(ev, roomID) {
         $mdDialog.show(
           $mdDialog.prompt()
             .title(`Confirm deletion of Room ${roomID}`)

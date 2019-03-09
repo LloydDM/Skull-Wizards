@@ -5,13 +5,24 @@
     .module('player')
     .controller('PlayerController', PlayerController);
 
-    PlayerController.$inject = ['playerService', '$mdDialog', '$location'];
+    PlayerController.$inject = [
+      'playerService',
+      '$mdDialog',
+      '$location'
+    ];
 
     function PlayerController(playerService, $mdDialog, $location) {
       let vm = this;
+
+      vm.selectPlayer = selectPlayer;
+      vm.createPlayer = createPlayer;
+      vm.testSkullLord = testSkullLord;
+
       let urlPath = $location.path().split('/');
       vm.room = urlPath[urlPath.indexOf('rooms') + 1];
       vm.playerList = [];
+
+      ////////////////////
 
       activate();
 
@@ -27,15 +38,15 @@
         .catch(err => console.error(err));
       }
 
-      vm.selectPlayer = function(playerID) {
+      function selectPlayer(playerID) {
         window.location.href = `/rooms/${vm.room}/player/${playerID}`;
       }
 
-      vm.createPlayer = function() {
+      function createPlayer() {
         console.log('Creating New Player');
       }
 
-      vm.testSkullLord = function(ev) {
+      function testSkullLord(ev) {
         $mdDialog.show(
           $mdDialog.prompt()
             .title(`Enter SKULL PIN for Room ${vm.room}`)
