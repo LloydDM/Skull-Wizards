@@ -47,24 +47,37 @@
       }
 
       function createRoom() {
-        return welcomeService.createRoom()
-          .then(room => {
-            if (room) {
-              window.location.href = `/rooms/${room._id}/skull-lord`;
-            } else {
-              $mdDialog.show(
-                $mdDialog.alert()
-                  .parent(angular.element(document.querySelector('#welcome')))
-                  .clickOutsideToClose(true)
-                  .title('Room could not be created')
-                  .textContent('A room could not be created')
-                  .ariaLabel('Room could not be created Alert')
-                  .ok("Bummer")
-              );
-            }
+        $mdDialog.show(
+          $mdDialog.prompt()
+            .title(`Create SKULL PIN`)
+            .textContent(`Enter a SKULL PIN to access this room as a SKULL LORD in the future`)
+            .placeholder(`SKULL PIN`)
+            .ariaLabel(`Create SKULL PIN`)
+            .required(true)
+            .parent(angular.element(document.body))
+            .ok(`Create`)
+            .cancel(`Cancel`)
+        )
+        .then(result => {
+          return welcomeService.createRoom({pin:result})
+        })
+        .then(room => {
+          if (room) {
+            window.location.href = `/rooms/${room._id}/skull-lord`;
+          } else {
+            $mdDialog.show(
+              $mdDialog.alert()
+                .parent(angular.element(document.querySelector('#welcome')))
+                .clickOutsideToClose(true)
+                .title('Room could not be created')
+                .textContent('A room could not be created')
+                .ariaLabel('Room could not be created Alert')
+                .ok("Bummer")
+            );
+          }
 
-            return room;
-          });
+          return room;
+        });
       }
 
       function getAllRooms() {

@@ -18,8 +18,6 @@ block content
         md-card-content
           p(style="font-weight: bold;") Level {{ pc.level }}
           p.md-caption Played By {{ pc.mundane_name }}
-        //- md-card-actions(layout="row" layout-align="end center")
-        //-   md-button.md-warn.md-raised(ng-click="player.deleteplayer($event, room._id)") Delete
     div(layout="row" layout-align="center center")
       md-button.md-raised(ng-click="player.createPlayer()" style="width:320px;")
         h2 Create A New Player

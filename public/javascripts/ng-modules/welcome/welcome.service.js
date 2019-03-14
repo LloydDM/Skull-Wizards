@@ -29,8 +29,8 @@
           }
       }
 
-      function createRoom() {
-        return $http.post(`/api/rooms/`)
+      function createRoom(pin) {
+        return $http.post(`/api/rooms/`, pin)
           .then(createRoomComplete)
           .catch(createRoomFailed);
 

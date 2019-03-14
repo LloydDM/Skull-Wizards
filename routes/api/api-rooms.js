@@ -73,7 +73,8 @@ router.post('/', (req, res, next) => {
           supplemental_nouns: [],
           supplemental_adjs: [],
           supplemental_ings: [],
-          supplemental_advs: []
+          supplemental_advs: [],
+          PIN: req.body.pin
         }, (err, newRoom) => {
           if (err) return next(err);
           res.send(newRoom);
